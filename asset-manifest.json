@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dryvaa/static/css/main.83d33b02.css",
+    "main.js": "/dryvaa/static/js/main.3d81b6b6.js",
+    "static/css/996.8847f105.chunk.css": "/dryvaa/static/css/996.8847f105.chunk.css",
+    "static/js/996.6d2df655.chunk.js": "/dryvaa/static/js/996.6d2df655.chunk.js",
+    "static/js/787.96dbc9ae.chunk.js": "/dryvaa/static/js/787.96dbc9ae.chunk.js",
+    "static/js/951.9aac1205.chunk.js": "/dryvaa/static/js/951.9aac1205.chunk.js",
+    "static/media/invoice.png": "/dryvaa/static/media/invoice.6d36be58790d61ff946d.png",
+    "index.html": "/dryvaa/index.html",
+    "main.83d33b02.css.map": "/dryvaa/static/css/main.83d33b02.css.map",
+    "main.3d81b6b6.js.map": "/dryvaa/static/js/main.3d81b6b6.js.map",
+    "996.8847f105.chunk.css.map": "/dryvaa/static/css/996.8847f105.chunk.css.map",
+    "996.6d2df655.chunk.js.map": "/dryvaa/static/js/996.6d2df655.chunk.js.map",
+    "787.96dbc9ae.chunk.js.map": "/dryvaa/static/js/787.96dbc9ae.chunk.js.map",
+    "951.9aac1205.chunk.js.map": "/dryvaa/static/js/951.9aac1205.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d33b02.css",
+    "static/js/main.3d81b6b6.js"
+  ]
+}
