@@ -1,0 +1,23 @@
+.sidebar {
+    /* width: 230px; */
+    width: 14vw !important;
+    background-color: #f2f2f2;
+    height: 93vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sd{}
+
+.sd > ul{ list-style: none; }
+
+.sd > ul li{
+    color: #0000008B;
+    font-size: 15px;
+    padding-top: 25px;
+    padding-left: -50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
